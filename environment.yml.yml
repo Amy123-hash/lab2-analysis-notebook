@@ -1,0 +1,11 @@
+name: lab2-fhs
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - jupyter
+  - nbconvert
